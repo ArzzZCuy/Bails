@@ -17,7 +17,7 @@
         "url": "https://www.npmjs.com/package/@stvnnvs/baileys"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "Daffa",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [

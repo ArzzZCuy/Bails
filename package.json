@@ -17,7 +17,7 @@
         "url": "https://www.npmjs.com/package/@ArzXDOffc/Bails"
     },
     "license": "MIT",
-    "author": "Daffa",
+    "author": "ArzXD",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [

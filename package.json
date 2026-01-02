@@ -1,5 +1,5 @@
 {
-    "name": "@ArzXDOffc/Baileys",
+    "name": "@ArzXDOffc/Bails",
     "version": "2.0.3",
     "description": "WhatsApp API Modification By Daffa",
     "keywords": [
@@ -12,9 +12,9 @@
         "botwa",
         "daffaa"
     ],
-    "homepage": "https://www.npmjs.com/package/@daffadeveloper/Baileys",
+    "homepage": "https://www.npmjs.com/package/@ArzXDOffc/Bails",
     "repository": {
-        "url": "https://www.npmjs.com/package/@daffadeveloper/Baileys"
+        "url": "https://www.npmjs.com/package/@ArzXDOffc/Bails"
     },
     "license": "MIT",
     "author": "Daffa",
